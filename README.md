@@ -1,2 +1,1 @@
-"# Frontend-Practice" 
-"# Frontend-Practice" 
+Frontend practice
