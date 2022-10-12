@@ -1,0 +1,23 @@
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+p{
+    color: black;
+}
+#title{
+    font-weight: bold;
+    color: purple;
+}
+#paragraph{
+    font-weight: 200;
+    color: aqua;
+}
+section{
+    height: 80vh;
+    
+}
