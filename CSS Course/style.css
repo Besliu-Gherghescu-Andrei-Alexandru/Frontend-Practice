@@ -1,0 +1,18 @@
+h1{
+    background-color: aqua;
+    color: rgb(94, 18, 18, 0.4);
+    font-family: "Roboto",sans-serif;
+}
+div{
+    width: 50%;
+    max-width: 200px;
+    height: 70%;
+    background-color: rgb(233, 169, 86);
+    border: 2px solid blue;
+    border-width: 2px;
+    border-style: dotted;
+    font-size: 18px;
+    font-weight: bold;
+    color: beige;
+    font-family: "Roboto", sans-serif;
+}
