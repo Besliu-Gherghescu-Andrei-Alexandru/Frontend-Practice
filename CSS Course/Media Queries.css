@@ -1,0 +1,35 @@
+div{
+    background-color: red;
+    color: white;
+    font-size: 24px;
+}
+
+@media (max-width: 1200px){
+    div{
+        font-size: 22px;
+    }
+}
+
+@media (max-width: 992px){
+    div{
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 768px){
+    div{
+        font-size: 18px;
+    }
+}
+
+
+@media (max-width: 576px){
+    div{
+        font-size: 16px;
+    }
+}
+
+
+*{
+    font-family: 'Roboto',sans-serif;
+}
