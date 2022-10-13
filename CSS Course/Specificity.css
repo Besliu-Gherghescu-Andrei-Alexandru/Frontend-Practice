@@ -1,23 +1,24 @@
-.red {
-  color: red;
-}
-
-.blue {
-  color: blue;
-}
-
-p{
-    color: black;
-}
-#title{
-    font-weight: bold;
-    color: purple;
-}
-#paragraph{
-    font-weight: 200;
-    color: aqua;
-}
 section{
     height: 80vh;
-    
+    border: 1px solid black;
+
+}
+p{
+    color: blue;
+}
+
+.red{
+    color: red !important;
+}
+
+p.red {
+    color: purple;
+}
+
+#title{
+    color: black;
+}
+
+#title.heading.red {
+    color: blue;
 }
